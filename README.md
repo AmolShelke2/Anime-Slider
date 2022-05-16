@@ -9,3 +9,7 @@ an image slider created using HTML CSS and JavaScript for anime lovers. inspired
 - JavaScript.
 
 # Preview.
+
+
+https://user-images.githubusercontent.com/95171638/168631606-68a3d8b8-200c-4c41-812c-b64e9636d06a.mp4
+
